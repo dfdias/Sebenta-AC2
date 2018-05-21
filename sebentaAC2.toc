@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {portuguese}
+\beamer@subsubsectionintoc {1}{1}{1}{Interface com os M\IeC {\'o}dulos de I/O}{1}{0}{0}
+\beamer@subsubsectionintoc {1}{4}{5}{Controle de excep\IeC {\c c}\IeC {\~o}es no MIPS}{6}{0}{0}
+\beamer@subsectionintoc {3}{7}{Comunica\IeC {\c c}\IeC {\~a}o S\IeC {\'e}rie Assincrona: UART}{24}{0}{0}

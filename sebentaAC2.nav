@@ -1,0 +1,57 @@
+\beamer@endinputifotherversion {3.24pt}
+\headcommand {\sectionentry {1}{I/O}{1}{I/O}{0}}
+\headcommand {\beamer@sectionpages {1}{0}}
+\headcommand {\beamer@subsectionpages {1}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{1}{Perifericos}}\headcommand {\beamer@subsectionpages {1}{0}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{1}{1}{1}{Interface com os M\IeC {\'o}dulos de I/O}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{2}{M\IeC {\'o}dulos IO}}\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{1}{2}{Modelo de Programa\IeC {\c c}\IeC {\~a}o}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{2}{3}{Tipos de Registos IO}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{4}{Convers\IeC {\~a}o A/D}}\headcommand {\beamer@subsectionpages {2}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{4}{Tipos de I/O}}\headcommand {\beamer@subsectionpages {4}{3}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{4}{1}{4}{I/O programado(polling)}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{4}{2}{4}{I/O por interrup\IeC {\c c}\IeC {\~a}o}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{4}{3}{5}{Identifica\IeC {\c c}\IeC {\~a}o do dispositivo que gera a interrup\IeC {\c c}\IeC {\~a}o}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{4}{4}{5}{M\IeC {\'u}ltiplas fontes de interrup\IeC {\c c}\IeC {\~a}o}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{4}{5}{6}{Controle de excep\IeC {\c c}\IeC {\~o}es no MIPS}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{4}{6}{7}{DMA}}
+\headcommand {\sectionentry {2}{Buses}{8}{Buses}{0}}
+\headcommand {\beamer@sectionpages {1}{7}}
+\headcommand {\beamer@subsectionpages {4}{7}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{10}{Tipos de Buses}}\headcommand {\beamer@subsectionpages {8}{9}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{1}{1}{10}{Data Bus}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{1}{2}{11}{Address Bus(Endere\IeC {\c c}amento)}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{1}{3}{11}{Control Bus}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{11}{Tipos de Dispositivos ligados ao BUS}}\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{2}{1}{11}{Master}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{2}{2}{11}{Slave}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{12}{Bus Paralelo}}\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{12}{Bus S\IeC {\'e}rie}}\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{5}{12}{Bus Sincrono}}\headcommand {\beamer@subsectionpages {12}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{6}{14}{Bus Ass\IeC {\'\i }ncrono}}\headcommand {\beamer@subsectionpages {12}{13}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{6}{1}{16}{Handshake}}
+\headcommand {\beamer@subsectionentry {0}{2}{7}{16}{Arbitragem do BUS}}\headcommand {\beamer@subsectionpages {14}{15}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{7}{1}{17}{Arbitragem Centralizada}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{7}{2}{17}{Arbitragem Distribuida}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{7}{3}{19}{Politicas de arbitragem:}}
+\headcommand {\beamer@subsectionentry {0}{2}{8}{20}{PCI}}\headcommand {\beamer@subsectionpages {16}{19}}
+\headcommand {\beamer@subsubsectionentry {0}{2}{8}{1}{20}{Estrutura do Bus}}
+\headcommand {\beamer@subsectionentry {0}{2}{9}{21}{PCIe}}\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\sectionentry {3}{Comunica\IeC {\c c}\IeC {\~a}o}{21}{Comunica\IeC {\c c}\IeC {\~a}o}{0}}
+\headcommand {\beamer@sectionpages {8}{20}}
+\headcommand {\beamer@subsectionpages {21}{20}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{21}{Comunica\IeC {\c c}\IeC {\~a}o em S\IeC {\'e}rie}}\headcommand {\beamer@subsectionpages {21}{20}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{21}{Comunica\IeC {\c c}\IeC {\~a}o em Paralelo}}\headcommand {\beamer@subsectionpages {21}{20}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{21}{Assincrona}}\headcommand {\beamer@subsectionpages {21}{20}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{22}{Sincrona}}\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{22}{C\IeC {\'o}digos de Transmiss\IeC {\~a}o}}\headcommand {\beamer@subsectionpages {22}{21}}
+\headcommand {\beamer@subsubsectionentry {0}{3}{5}{1}{23}{C\IeC {\'o}digo 8b/10b}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{23}{ Comunica\IeC {\c c}\IeC {\~a}o S\IeC {\'e}rie Assincrona: RS-232C}}\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\beamer@subsubsectionentry {0}{3}{6}{1}{24}{Exemplo de uma Transmiss\IeC {\~a}o ASCII de 8bits sem paridade e NRZ}}
+\headcommand {\beamer@subsectionentry {0}{3}{7}{24}{Comunica\IeC {\c c}\IeC {\~a}o S\IeC {\'e}rie Assincrona: UART}}\headcommand {\beamer@subsectionpages {23}{23}}
+\headcommand {\beamer@subsubsectionentry {0}{3}{7}{1}{24}{\IeC {\textbullet }}}
+\headcommand {\beamer@partpages {1}{24}}
+\headcommand {\beamer@subsectionpages {24}{24}}
+\headcommand {\beamer@sectionpages {21}{24}}
+\headcommand {\beamer@documentpages {24}}
+\headcommand {\def \inserttotalframenumber {0}}
